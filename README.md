@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/126619528/225124747-ab1e45a8-0703-4054
 
 ### Demo Link
 
-**[💻 Live Site URL](https://soojeong-park-ca.github.io/drum-kit-js30/)**
+**[💻 Live Site URL](https://soojeong-park-ca.github.io/drum-kit/)**
 
 ## About the Project
 
